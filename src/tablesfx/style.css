@@ -1,0 +1,24 @@
+.root{
+    
+    -fx-background-color:lavender;
+}
+.label {
+ -fx-font:normal bold 20px "serif"  ; 
+    
+}
+
+.button {
+    -fx-background-color:tomato;
+    -fx-text-fill:#ffffff;
+    -fx-font-size:large;   
+    
+}
+.submitbutton {
+    -fx-background-color:#00cc00; 
+    -fx-text-fill:#ffffff;
+    -fx-font-size:large;   
+    
+}
+
+
+
